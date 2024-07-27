@@ -1,0 +1,2 @@
+Justificativa: Internamente, os sites de hoje, na verdade, são aplicações sofisticadas que agem como aplicações desktop completas. Python tem um ótimo conjunto de ferramentas para criar aplicações web. Estou utilizando o Django para criar um projeto chamado Leaning logs, para exercitar o desenvolvimento web e desenvolver um sistema de diário online que permite manter o controle de informações adquiridas sobre determinados assuntos.
+
