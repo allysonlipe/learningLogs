@@ -1,2 +1,14 @@
 ll_env/
+
+# Ignorar o banco de dados SQLite
 db.sqlite3
+
+# Ignorar outros arquivos ou diretórios desnecessários
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+env/
+venv/
+*.env
+.DS_Store
